@@ -13,5 +13,6 @@ Implementation of Linear Regresion in solo python algorithm with:
 - Linear Regression in solo python algorithm (0.09627 in validation, 0.12097 in kaggle-test).
 
 ## FILE: Other Algorithms - Semana 1 - Israel Chaparro.ipynb
+- Sklearn Linear Regression
 - Random Forest Regressor
 - Gaussian Process Regression
