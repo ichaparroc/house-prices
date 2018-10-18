@@ -2,7 +2,7 @@
 ## House Prices: Advanced Regression Techniques
 Participate on: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-![alt tag]https://raw.githubusercontent.com/ichaparroc/house-prices/master/Screenshot%20at%202018-10-18%2009-01-38.png
+![Alt text]https://raw.githubusercontent.com/ichaparroc/house-prices/master/Screenshot%20at%202018-10-18%2009-01-38.png
 
 ## FILE: Linear Regression - Semana 1 - Israel Chaparro.ipynb
 Implementation of Linear Regresion in solo python algorithm with:
